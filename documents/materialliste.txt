@@ -1,0 +1,24 @@
+MATERIALLISTE
+
+Material/Produkt/Kategorie:
+    - Seile 
+    - Gurte 
+    - Abseilgeräte/Sicherungsgeräte
+    - mitlaufende Auffanggeräte
+    - Seilklemmen
+    - Seilrollen
+    - Anschlagmittel
+    - Karabiner
+    - Verbindungsmittel/Falldämpfer
+
+Attribute: (auch wichtig für PDF-Generierung)
+    - Produkt/Kategorie
+    - Hersteller
+    - Typ
+    - Herstellungsdatum (MM/JJJJ)
+    - Seriennummer
+    - erster Gebrauch (MM/JJJJ)
+    - Zustand (sehr gut, gut, schlecht, sehr schelcht, austauschen!)
+    - Prüfungsdatum (TT/MM/JJJJ)
+    - nächste Prüfung (TT/MM/JJJJ)
+    - Zeichen des Prüfers

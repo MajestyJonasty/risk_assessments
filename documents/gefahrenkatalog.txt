@@ -1,0 +1,55 @@
+GEFAHRENKATALOG
+
+Gefahrenkategorie: Mechanische Gefahren
+
+    Gefahr: Unkontrolliert bewegende Teile
+    Maßnahmen: Arbeitsbereich sperren, Schutzkleidung tragen
+
+    Gefahr: Quetschgefahr durch Maschinen
+    Maßnahmen: Schutzvorrichtungen verwenden, Sicherheitsabstand halten
+
+    Gefahr: Schneidgefahr durch scharfe Kanten
+    Maßnahmen: Schutzhandschuhe tragen, Kanten absichern
+
+Gefahrenkategorie: Elektrische Gefahren
+
+    Gefahr: Stromschlag
+    Maßnahmen: Isolierte Werkzeuge verwenden, Elektrische Anlagen ausschalten
+
+    Gefahr: Kurzschluss
+    Maßnahmen: Sicherungskästen überprüfen, Schadhafte Kabel ersetzen
+
+    Gefahr: Überlastung der Stromkreise
+    Maßnahmen: Stromkreise nicht überlasten, Verteilung der Lasten überprüfen
+
+Gefahrenkategorie: Gefahrenstoffe
+
+    Gefahr: Einatmen von giftigen Dämpfen
+    Maßnahmen: Atemschutzmasken tragen, Belüftung sicherstellen
+
+    Gefahr: Hautkontakt mit gefährlichen Chemikalien
+    Maßnahmen: Schutzhandschuhe und -kleidung tragen, Sicherheitsduschen bereitstellen
+
+    Gefahr: Verschlucken von Chemikalien
+    Maßnahmen: Spezielle Arbeitsvorschriften beachten, Notfallpläne bereithalten
+
+Gefahrenkategorie: Brand- und Explosionsgefahren
+
+    Gefahr: Feuer durch entzündbare Materialien
+    Maßnahmen: Feuerlöscher bereitstellen, Brandmeldeanlagen installieren
+
+    Gefahr: Explosionen durch Gaslecks
+    Maßnahmen: Gasdetektoren verwenden, Regelmäßige Wartung der Gasleitungen
+
+    Gefahr: Staubexplosionen
+    Maßnahmen: Staubansammlungen vermeiden, Geeignete Lüftungssysteme installieren
+
+Gefahrenkategorie: Sonstige
+    Gefahr: Lärmbelastung
+    Maßnahmen: Gehörschutz tragen, Lärmmindernde Maßnahmen ergreifen
+
+    Gefahr: Erschöpfung durch Überarbeitung
+    Maßnahmen: Regelmäßige Pausen einlegen, Arbeitszeiten überwachen
+
+    Gefahr: Stolpern und Stürzen
+    Maßnahmen: Arbeitsbereiche sauber halten, Rutschfeste Matten verwenden
